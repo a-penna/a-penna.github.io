@@ -27,7 +27,7 @@ All apps are listed on my [App Store developer page](https://apps.apple.com/deve
 ## Support
 
 Questions, feedback or a problem with one of the apps? Write to **alessandro_penna@icloud.com** — I usually reply within 2–3 business days.
-a
+
 ## About this site
 
 A lightweight static site: no trackers, no cookies and no external requests.
